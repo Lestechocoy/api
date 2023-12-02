@@ -18,7 +18,7 @@ module.exports = {
   }*/
 
    mysql: {
-      host: process.env.MYSQL_HOST || 'https://server0751.hostilimitado.com',
+      host: process.env.MYSQL_HOST || 'https://65.109.88.87',
       user: process.env.MYSQL_USER || 'tecnoxum_chocoy',
       password: process.env.MYSQL_PASSWORD || '@Chocoy2023@',
       database: process.env.MYSQL_DB || 'tecnoxum_chocoy'
